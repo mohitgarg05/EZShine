@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1086801967424",
+    "project_id": "ezshine",
+    "storage_bucket": "ezshine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086801967424:android:a6825e72c15a82524162a5",
+        "android_client_info": {
+          "package_name": "com.ezshine"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0aLFKjpT4DQ21N_J8D6YaUchlyzOBDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
