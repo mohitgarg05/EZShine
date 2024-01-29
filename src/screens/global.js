@@ -12,5 +12,5 @@ export const font={
   }
 
   export const color ={
-    orange : "#FF715D",
+    orange : "#734F96",
   }

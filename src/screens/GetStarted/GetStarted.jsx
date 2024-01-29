@@ -9,11 +9,10 @@ const GetStartedScreen = ()=>{
                <View style={styles.illustration}>
                     <Image style={{
                         height:400
-                    }} resizeMode="contain" source={require("../../assets/Images/getstarted.png")} />
+                    }} resizeMode="contain" source={require("../../assets/Images/carwash2.png")} />
                 </View>
-                <View>
-                    <Text style={styles.primary_text}>Your Car, </Text>
-                    <Text style={styles.primary_text}>Your Schedule</Text>
+                <View style={styles.text_view}>
+                    <Text style={styles.primary_text}>EZShine</Text>
                     <Text style={styles.secondary_text}>Experience the convenience of a car wash service that comes to you.</Text>
                 </View>
                 <View style={styles.button_start_div}>
